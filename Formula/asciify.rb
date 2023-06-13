@@ -1,4 +1,3 @@
-
 class Asciify < Formula
     desc "A commandline tool that converts images and gifs into ascii art"
     homepage "https://github.com/JosephAdamson/asciify"
